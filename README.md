@@ -1,8 +1,8 @@
 # Hi, I'm Vlad 👋
 
-**Full-Stack Developer** | Python Backend Specialist | Modern Frontend Explorer
+**Full-Stack Developer** | Python Backend Specialist | Automation & API Architect
 
-Passionate about building robust backend architectures, scalable automation/Telegram bots, and fast, interactive user interfaces.
+Passionate about building robust backend architectures, stealth automation systems, and fast, interactive user interfaces using modern stacks.
 
 ---
 
@@ -12,10 +12,9 @@ Passionate about building robust backend architectures, scalable automation/Tele
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 
 #### ⚙️ Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
@@ -24,37 +23,39 @@ Passionate about building robust backend architectures, scalable automation/Tele
 ![AIogram](https://img.shields.io/badge/-AIogram-2CA5E0?logo=telegram&logoColor=white)
 ![Pyrogram](https://img.shields.io/badge/-Pyrogram-2CA5E0?logo=telegram&logoColor=white) 
 
-#### 🎨 Frontend Frameworks & Tools
+#### 🎨 Frontend & UI
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![HTMX](https://img.shields.io/badge/-HTMX-336699?logo=htmx&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 #### 🗄️ Databases & ORMs
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-`Tortoise-ORM` `SQLite`
 
-#### 🐋 DevOps & Tools
+#### 🐋 DevOps, Automation & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
 
-### 🚀 Recent Projects
+### 🚀 Featured Projects
 
-📂 **[Project Name 1]** - *Brief 1-sentence description of a major backend or bot project.*
-* Built with FastAPI, Tortoise-ORM, and PostgreSQL.
-* Features [mention one cool feature, e.g., high-concurrency handling, automated web scraping].
+📂 **Zefir Jewelry E-Commerce Platform** | [zefirjewelry.com](https://zefirjewelry.com/)
+*A full-stack, blazing-fast online store built without heavy JS frameworks.*
+* **Stack:** FastAPI, HTMX, Tortoise-ORM, PostgreSQL, Bootstrap 5.
+* **Features:** Developed a custom admin CMS for product and inventory management. Implemented real-time cart functionality with HTMX, integrated the **Monobank API** for secure online checkout, and built automated Telegram notifications for admin order alerts.
 
-📂 **[Project Name 2 / Telegram Bot]** - *Brief 1-sentence description of your best bot.*
-* Developed using aiogram and Redis for session management.
-* Handles [mention functionality].
+📂 **Private P2P Crypto Arbitrage & Automation Engine** | *Closed Access*
+*A high-concurrency distributed web scraper and payment interceptor.*
+* **Stack:** FastAPI, Playwright (Async), Redis, Tortoise-ORM.
+* **Features:** Built a robust scraping architecture to fetch P2P prices across Binance, Bybit, and Rapira. Engineered a headless browser worker using custom DOM stealth patches to bypass Cloudflare and bot detection. Implemented Redis message queues for task management and automated proxy rotation. 
 
-📂 **Bubble Coffee Namur Website** - *Modern multilingual frontend website built for a local business.*
-* Engineered with React, TypeScript, and Vite.
-* Features responsive design, fully responsive custom CSS animations, and a light/dark theme engine.
+📂 **[Add a Telegram Bot Here, if desired]**
+*Brief 1-sentence description.*
+* **Stack:** Python, aiogram, Redis.
+* **Features:** Handles [mention functionality, e.g., user sessions, payment processing, or admin broadcasting].
 
 ---
 
