@@ -53,7 +53,7 @@ Everything below is on the [portfolio](https://dontforgetantaiku.dev), with deta
 </tr>
 <tr>
 <td width="40%" valign="top">
-<a href="https://lang-learner.dontforgetantaiku.dev"><img src="https://dontforgetantaiku.dev/media/6a4e35f33767c4c9.png" alt="Parlons" width="100%"></a>
+<a href="https://lang-learner.dontforgetantaiku.dev"><img src="https://dontforgetantaiku.dev/media/9d3c3048ad782aa4.png" alt="Parlons" width="100%"></a>
 </td>
 <td valign="top">
 <h3>Parlons</h3>
@@ -93,7 +93,7 @@ Everything below is on the [portfolio](https://dontforgetantaiku.dev), with deta
 </tr>
 <tr>
 <td width="40%" valign="top">
-<a href="https://crypto-chart.dontforgetantaiku.dev"><img src="https://dontforgetantaiku.dev/media/5dfa886eb49ac9da.png" alt="Signal Aggregator" width="100%"></a>
+<a href="https://crypto-chart.dontforgetantaiku.dev"><img src="https://dontforgetantaiku.dev/media/8d5cbb32e421ae6c.png" alt="Signal Aggregator" width="100%"></a>
 </td>
 <td valign="top">
 <h3>Signal Aggregator</h3>
