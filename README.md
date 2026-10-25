@@ -8,9 +8,19 @@
 
 </div>
 
-Two kinds of clients hire me: technical teams who need a bot or backend built right, and business owners who just need a site that works — no jargon, no back-and-forth about frameworks. Both get the same end-to-end care.
+Two kinds of clients hire me: technical teams who need a bot or backend built right, and business owners who just need a site that works, explained in plain words with no technical detours. Both get the same end-to-end care.
 
 > From bot engines to restaurant sites · Telegram, Discord and WhatsApp bots · building since March 2024
+
+---
+
+## What I build
+
+- **[Chat bots](https://dontforgetantaiku.dev/bots)**: Telegram, Discord and WhatsApp bots for orders, bookings and support.
+- **[Web scraping](https://dontforgetantaiku.dev/scrapers)**: data from websites into CSV, Excel or a database, once or on a schedule.
+- **[Websites](https://dontforgetantaiku.dev/websites)**: fast, mobile-friendly sites, from a single page to an online shop.
+
+Each page is available in English, Ukrainian and French.
 
 ---
 
@@ -38,7 +48,7 @@ Two kinds of clients hire me: technical teams who need a bot or backend built ri
 
 ## Projects
 
-Everything below is on the [portfolio](https://dontforgetantaiku.dev), with details and live links.
+Everything below is on the [portfolio](https://dontforgetantaiku.dev), with details, live links and, for open-source projects, the source code.
 
 <table>
 <tr>
@@ -48,7 +58,17 @@ Everything below is on the [portfolio](https://dontforgetantaiku.dev), with deta
 <td valign="top">
 <h3>Fast Reading</h3>
 <p>Speed-reading app that shows any text one word at a time at your own pace. Works offline.</p>
-<p><b>Role:</b> Design and frontend development<br><b>Stack:</b> <code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>PWA</code> · <code>i18next</code><br><a href="https://fast-reading.dontforgetantaiku.dev"><b>Live site →</b></a></p>
+<p><b>Role:</b> Design and frontend development<br><b>Stack:</b> <code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>PWA</code> · <code>i18next</code><br><a href="https://fast-reading.dontforgetantaiku.dev"><b>Live site →</b></a> · <a href="https://github.com/DontforgetAntaiku/fast-reading"><b>Source code →</b></a></p>
+</td>
+</tr>
+<tr>
+<td width="40%" valign="top">
+<a href="https://dontforgetantaiku.github.io/mc9py"><img src="https://dontforgetantaiku.dev/media/8fb5d997da24a205.png" alt="mc9py" width="100%"></a>
+</td>
+<td valign="top">
+<h3>mc9py</h3>
+<p>Python library and MCP server that scripts Micro-Cap 9: runs analyses, reads results, saves native screenshots.</p>
+<p><b>Role:</b> Full-stack development<br><b>Stack:</b> <code>Python</code> · <code>MCP</code> · <code>Wine</code> · <code>MkDocs</code> · <code>GitHub Actions</code><br><a href="https://dontforgetantaiku.github.io/mc9py"><b>Live site →</b></a> · <a href="https://github.com/DontforgetAntaiku/mc9py"><b>Source code →</b></a></p>
 </td>
 </tr>
 <tr>
@@ -57,8 +77,18 @@ Everything below is on the [portfolio](https://dontforgetantaiku.dev), with deta
 </td>
 <td valign="top">
 <h3>Parlons</h3>
-<p>Language-learning site with flashcards and typed grammar practice for French and Belgian Dutch. Works offline.</p>
+<p>Language-learning site with flashcards and typed grammar practice. Works offline.</p>
 <p><b>Role:</b> Design and full-stack development<br><b>Stack:</b> <code>React</code> · <code>TypeScript</code> · <code>PWA</code> · <code>FastAPI</code> · <code>Redis</code><br><a href="https://lang-learner.dontforgetantaiku.dev"><b>Live site →</b></a></p>
+</td>
+</tr>
+<tr>
+<td width="40%" valign="top">
+<a href="https://watch-together.dontforgetantaiku.dev"><img src="https://dontforgetantaiku.dev/media/8da75e0dcf541705.png" alt="Watch Together" width="100%"></a>
+</td>
+<td valign="top">
+<h3>Watch Together</h3>
+<p>Watch videos in sync with friends using a short room code. No accounts, no installs.</p>
+<p><b>Role:</b> Design and full-stack development<br><b>Stack:</b> <code>React</code> · <code>TypeScript</code> · <code>FastAPI</code> · <code>WebRTC</code> · <code>PWA</code><br><a href="https://watch-together.dontforgetantaiku.dev"><b>Live site →</b></a> · <a href="https://github.com/DontforgetAntaiku/watch-together"><b>Source code →</b></a></p>
 </td>
 </tr>
 <tr>
@@ -97,8 +127,8 @@ Everything below is on the [portfolio](https://dontforgetantaiku.dev), with deta
 </td>
 <td valign="top">
 <h3>Signal Aggregator</h3>
-<p>Crypto trading signal dashboard with live indicators and strategies.</p>
-<p><b>Role:</b> Design and full-stack development<br><b>Stack:</b> <code>Python</code> · <code>ccxt</code> · <code>Redis</code> · <code>Celery</code><br><a href="https://crypto-chart.dontforgetantaiku.dev"><b>Live site →</b></a></p>
+<p>Crypto dashboard that ranks about 240 Binance coins every hour and shows odds, not orders.</p>
+<p><b>Role:</b> Design and full-stack development<br><b>Stack:</b> <code>React</code> · <code>TypeScript</code> · <code>FastAPI</code> · <code>PostgreSQL</code> · <code>LightGBM</code><br><a href="https://crypto-chart.dontforgetantaiku.dev"><b>Live site →</b></a></p>
 </td>
 </tr>
 </table>
